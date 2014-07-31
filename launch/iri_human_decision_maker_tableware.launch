@@ -1,0 +1,9 @@
+<launch>
+  
+  <node name="iri_human_decision_maker_tableware" pkg="iri_human_decision_maker_tableware" type="iri_human_decision_maker_tableware" output="screen" >
+    <remap from="/iri_human_decision_maker_tableware/interest_points" to="/iri_color_interesting_points_tableware/interest_points" />   
+    <remap from="/pick_place_tabl" to="/iri_pickandplace_tableware/pick_place_tabl" />
+  </node>
+
+</launch>
+
