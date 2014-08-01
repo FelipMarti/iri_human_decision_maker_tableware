@@ -1,7 +1,7 @@
 iri_human_decision_maker_tableware
 ===================================
 
-Package that allow the interaction between the operator and the robot. Calls iri_color_interesting_points_tableware service and pickandplace_tableware  actionlib
+Package that allow the interaction between the operator and the robot. Calls iri_color_interesting_points_tableware service and iri_pickandplace_tableware actionlib
 
 * IRI - Institut de Robòtica i Informàtica Industrial (CSIC-UPC): www.iri.upc.edu
 
